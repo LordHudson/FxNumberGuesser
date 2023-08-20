@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+
+.root{
+-fx-background-color:#222;
+-fx-font-family: 'Press Start 2P', sans-serif;
+}
+
+#button{
+-fx-background-color:#eee;
+}
+
+.label{
+-fx-text-fill: "white";
+-fx-font-family: 'Press Start 2P', sans-serif;
+}
